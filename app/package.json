@@ -1,0 +1,12 @@
+{
+  "name": "kubernetes",
+  "version": "1.0.0",
+  "description": "Application Node.js pour Kubernetes GitOps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

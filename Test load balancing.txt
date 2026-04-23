@@ -1,0 +1,129 @@
+PS C:\Users\delta> curl http://192.168.1.203
+
+Avertissement de sécurité : risque d’exécution de script
+Invoke-WebRequest analyse le contenu de la page web. Il se peut que le code de script de la page web s’exécute lors de
+l’analyse de la page.
+      ACTION RECOMMANDÉE :
+      Utilisez le commutateur -UseBasicParsing pour éviter l’exécution du code de script.
+
+      Voulez-vous continuer ?
+
+[O] Oui  [T] Oui pour tout  [N] Non  [U] Non pour tout  [S] Suspendre  [?] Aide (la valeur par défaut est « N ») : o
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : Hostname: backend-7c5cc65968-8nl47
+                    IP: 127.0.0.1
+                    IP: ::1
+                    IP: 10.42.0.40
+                    IP: fe80::f8f3:4cff:fe3c:ee0f
+                    RemoteAddr: 10.42.0.43:36714
+                    GET / HTTP/1.1
+                    Host: 192.168.1.203
+                    User-Agent: Mozilla/5.0 (Windows...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Content-Length: 306
+                    Content-Type: text/plain; charset=utf-8
+                    Date: Thu, 23 Apr 2026 13:16:07 GMT
+                    Server: nginx/1.25.5
+
+                    Hostname: backend-7c5cc65968-8nl47
+                    I...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Content-Length, 306], [Content-Type, text/plain; charset=utf-8],
+                    [Date, Thu, 23 Apr 2026 13:16:07 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 306
+
+
+
+PS C:\Users\delta> curl http://192.168.1.203
+
+Avertissement de sécurité : risque d’exécution de script
+Invoke-WebRequest analyse le contenu de la page web. Il se peut que le code de script de la page web s’exécute lors de
+l’analyse de la page.
+      ACTION RECOMMANDÉE :
+      Utilisez le commutateur -UseBasicParsing pour éviter l’exécution du code de script.
+
+      Voulez-vous continuer ?
+
+[O] Oui  [T] Oui pour tout  [N] Non  [U] Non pour tout  [S] Suspendre  [?] Aide (la valeur par défaut est « N ») : o
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : Hostname: backend-7c5cc65968-8nl47
+                    IP: 127.0.0.1
+                    IP: ::1
+                    IP: 10.42.0.40
+                    IP: fe80::f8f3:4cff:fe3c:ee0f
+                    RemoteAddr: 10.42.0.43:55754
+                    GET / HTTP/1.1
+                    Host: 192.168.1.203
+                    User-Agent: Mozilla/5.0 (Windows...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Content-Length: 306
+                    Content-Type: text/plain; charset=utf-8
+                    Date: Thu, 23 Apr 2026 13:16:13 GMT
+                    Server: nginx/1.25.5
+
+                    Hostname: backend-7c5cc65968-8nl47
+                    I...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Content-Length, 306], [Content-Type, text/plain; charset=utf-8],
+                    [Date, Thu, 23 Apr 2026 13:16:13 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 306
+
+
+
+PS C:\Users\delta> curl http://192.168.1.203
+
+Avertissement de sécurité : risque d’exécution de script
+Invoke-WebRequest analyse le contenu de la page web. Il se peut que le code de script de la page web s’exécute lors de
+l’analyse de la page.
+      ACTION RECOMMANDÉE :
+      Utilisez le commutateur -UseBasicParsing pour éviter l’exécution du code de script.
+
+      Voulez-vous continuer ?
+
+[O] Oui  [T] Oui pour tout  [N] Non  [U] Non pour tout  [S] Suspendre  [?] Aide (la valeur par défaut est « N ») : o
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : Hostname: backend-7c5cc65968-vdtmx
+                    IP: 127.0.0.1
+                    IP: ::1
+                    IP: 10.42.0.41
+                    IP: fe80::50dc:7dff:fe63:6fc2
+                    RemoteAddr: 10.42.0.43:38440
+                    GET / HTTP/1.1
+                    Host: 192.168.1.203
+                    User-Agent: Mozilla/5.0 (Windows...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Content-Length: 306
+                    Content-Type: text/plain; charset=utf-8
+                    Date: Thu, 23 Apr 2026 13:16:26 GMT
+                    Server: nginx/1.25.5
+
+                    Hostname: backend-7c5cc65968-vdtmx
+                    I...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Content-Length, 306], [Content-Type, text/plain; charset=utf-8],
+                    [Date, Thu, 23 Apr 2026 13:16:26 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 306
