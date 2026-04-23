@@ -6,5 +6,5 @@ metadata:
 data:
   config.json: |
     {
-      "message": "Bonjour depuis ConfigMap"
+      "message": "Bonjour depuis ArgoCD"
     }
