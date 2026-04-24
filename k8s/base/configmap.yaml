@@ -2,9 +2,12 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: node-config
-  namespace: tp-final
 data:
   config.json: |
     {
-      "message": "Bonjour depuis ArgoCD"
+      "message": "Hello from base",
+      "database": {
+        "user": "default_user",
+        "password": "default_password"
+      }
     }
