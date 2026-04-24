@@ -4,9 +4,9 @@ metadata:
   name: proxy-service
   namespace: tp-final
 spec:
+  type: LoadBalancer
   selector:
     app: proxy
   ports:
     - port: 80
       targetPort: 80
-  type: LoadBalancer
