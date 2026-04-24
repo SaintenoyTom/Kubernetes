@@ -6,8 +6,4 @@ data:
   config.json: |
     {
       "message": "Bonjour depuis Dev 2",
-      "database": {
-        "user": "admin",
-        "password": "password123"
-      }
     }
