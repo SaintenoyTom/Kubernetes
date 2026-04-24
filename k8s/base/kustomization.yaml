@@ -3,6 +3,6 @@ kind: Kustomization
 
 resources:
   - deployment.yaml
-  - service.yaml
+  - node-service.yaml
   - configmap.yaml
   - secret.yaml
